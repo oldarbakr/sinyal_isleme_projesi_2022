@@ -1,0 +1,1 @@
+result = parseMusicXML('muzik/nota.musicxml');
